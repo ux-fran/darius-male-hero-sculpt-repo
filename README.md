@@ -4,7 +4,7 @@
 
 _Project Status_: **Ongoing** 🔄  
 _Repository_: **[Darius Male Hero Sculpt Repository](https://github.com/ux-fran/darius-male-hero-sculpt-repo)**  
-_Project Progress_: **[Darius Progress](https://github.com/users/ux-fran/projects/56)**
+_Project Progress_: **[Darius Progress](https://github.com/users/ux-fran/projects/64)**
 
 This repository documents the journey of creating **Darius**, a stylized 3D character designed to complement my first sculpt, **Emilia**. Conceptualized with the help of ChatGPT, Darius is a strong, heroic figure with a bold presence, designed to stand alongside Emilia in both style and narrative. 🎨✨
 
@@ -59,7 +59,7 @@ Check out the **[Rosa Project Repository](https://github.com/ux-fran/rosa-anime-
 ## 📌 What's Inside This Repository
 
 - **Project Progress**:
-  - Explore the [Backlog](https://github.com/users/ux-fran/projects/56) for detailed steps or track my progress with the [Kanban Board (a.k.a. ToDo list)](https://github.com/users/ux-fran/projects/56/views/2).
+  - Explore the [Backlog](https://github.com/users/ux-fran/projects/64) for detailed steps or track my progress with the [Kanban Board (a.k.a. ToDo list)](https://github.com/users/ux-fran/projects/64/views/2).
 - **Key Milestones**:
   - Milestone breakdowns with links to specific tasks or achievements.
 - **Resources**:
