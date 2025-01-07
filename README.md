@@ -4,7 +4,7 @@
 
 _Project Status_: **Ongoing** 🔄  
 _Repository_: **[Darius Male Hero Sculpt Repository](https://github.com/ux-fran/darius-male-hero-sculpt-repo)**  
-_Project Progress_: **[Darius Progress](https://github.com/users/ux-fran/projects/56)**
+_Project Progress_: **[Darius Progress](https://github.com/users/ux-fran/projects/64)**
 
 This repository documents the journey of creating **Darius**, a stylized 3D character designed to complement my first sculpt, **Emilia**. Conceptualized with the help of ChatGPT, Darius is a strong, heroic figure with a bold presence, designed to stand alongside Emilia in both style and narrative. 🎨✨
 
