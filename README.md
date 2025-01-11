@@ -69,7 +69,7 @@ Check out the **[Rosa Project Repository](https://github.com/ux-fran/rosa-anime-
 
 ## 🙏 Credits
 
-- **Special Credit to ChatGPT**: The character concept for Darius was inspired by prompts generated with ChatGPT, leading to a unique and cohesive design process.
+- **Special Credit to ChatGPT**: The character concept for Darius was inspired by prompts in text (not an image!) generated with ChatGPT, leading to a unique and cohesive design process. I used ChatGPT as if it was a client, describing a character and than letting my own imagination run wild.
 - **Special Thanks to My Community**: For providing feedback and encouragement throughout the sculpting process.
 
 ---
