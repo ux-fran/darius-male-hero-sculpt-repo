@@ -2,7 +2,7 @@
 
 🔙 _Back to my Blender projects main hub_: [Fran's Blender Projects Hub](https://github.com/ux-fran/blender-projects-main-hub-repo)
 
-_Project Status_: **Ongoing** 🔄  
+_Project Status_: **In Progress** 🔄  
 _Repository_: **[Darius Male Hero Sculpt Repository](https://github.com/ux-fran/darius-male-hero-sculpt-repo)**  
 _Project Progress_: **[Darius Progress](https://github.com/users/ux-fran/projects/64)**
 
