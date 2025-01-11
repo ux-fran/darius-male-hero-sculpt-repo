@@ -42,7 +42,7 @@ This project is helping me deepen my skills in various areas of 3D character cre
 
 ## 🎯 Key Features of the Project
 
-- **Character Concept**: Darius was conceptualized as Emilia’s sidekick, with ChatGPT’s assistance in developing his personality and design.
+- **Character Concept**: Darius was conceptualized as Emilia’s sidekick, with ChatGPT’s assistance (in text, not as an image so I can use my own imagination) in developing his personality and design.
 - **Dynamic Armor and Clothing**: The project includes creating detailed armor that reflects Darius’s heroic and protective nature.
 - **Facial Expressions and Hair**: Focus on developing expressive facial features and dynamic hair movement.
 
