@@ -36,7 +36,7 @@ This project is helping me deepen my skills in various areas of 3D character cre
 4. **UV Unwrapping**: Preparing complex models for texturing by learning best practices in UV mapping.
 5. **Texture Painting**: Developing skills to create realistic skin, armor, and hair textures.
 6. **Rigging and Weight Painting**: Creating a fully rigged character and understanding how weight painting influences character movement.
-7. **Posing and Animation**: Learning how to pose the character for storytelling and animation tests.
+7. **Posing and Animation**: Learning how to pose the character for storytelling (Main goal) and animation tests (Bonus goal).
 
 ---
 
