@@ -8,6 +8,9 @@ _Project Progress_: **[Darius Progress](https://github.com/users/ux-fran/project
 
 This repository documents the journey of creating **Darius**, a stylized 3D character designed to complement my first sculpt, **Emilia**. Conceptualized with the help of ChatGPT, Darius is a strong, heroic figure with a bold presence, designed to stand alongside Emilia in both style and narrative. 🎨✨
 
+## ❓ Questions?   
+If you have any questions about this project, feel free to ask them in the [Q&A Discussion](https://github.com/ux-fran/mosquito-mayhem-game/discussions)! 💬
+
 ---
 
 ## 🖼️ A Glimpse of the Project
